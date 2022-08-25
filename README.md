@@ -99,7 +99,7 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=cdf998&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdf998&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=cdf998c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=cdf998&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=cdf998&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cdf998&style=plastic&logo=git"/>
 </p>
