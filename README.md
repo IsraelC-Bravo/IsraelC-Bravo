@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/T51DTcn.png" width="100%">
 
-My name is Israel Castillo, and as a Sofware Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals.
-
-When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
+My name is Israel Castillo, and as a Sofware Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals. When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
 
 Everybody has an idea; let me hear YOURS!
 
