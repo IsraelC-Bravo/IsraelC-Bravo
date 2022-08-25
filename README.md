@@ -1,21 +1,10 @@
 <img src="https://i.imgur.com/T51DTcn.png" width="100%">
 
-<p align="center">
-  <a href="https://israelc-bravo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/israelcastillov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/israelc_bravo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=cdf998&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/israelcastillov" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-</p>
+My name is Israel Castillo, and as a Sofware Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals.
 
-As a Sofware Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals. We'll find the answers you need for your unique project.
+When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
+
+Everybody has an idea; let me hear YOURS!
 
 See [my portfolio](https://israelc-bravo.netlify.app/) for more information about me!
 
