@@ -93,15 +93,15 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=2C6287&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=2C6287&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=2C6287&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=2C6287&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=2C6287&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=2C6287&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=2C6287&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=2C6287&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=2C6287&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=84B0CB&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=84B0CB&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=84B0CB&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=84B0CB&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=84B0CB&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=84B0CB&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=84B0CB&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=84B0CB&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=84B0CB&style=plastic&logo=git"/>
 </p>
 
 
@@ -115,16 +115,16 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
 
 <p align="center">
   <a href="https://israelc-bravo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=84B0CB&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/israelcastillov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=84B0CB&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/israelc_bravo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=cdf998&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=84B0CB&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/israelcastillov" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=84B0CB&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
