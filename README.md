@@ -94,7 +94,7 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=cdf998&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=cdf998&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=2C6287&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=cdf998&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=cdf998&style=plastic&logo=express"/>
