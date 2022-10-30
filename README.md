@@ -1,4 +1,4 @@
-<img src="[https://i.imgur.com/MvSB5X2.jpg]" width="100%">
+<img src="(https://i.imgur.com/MvSB5X2.jpg)" width="100%">
 
 My name is Israel Castillo, and as a Software Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals. When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
 
