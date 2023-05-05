@@ -114,17 +114,17 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
 
 
 <p align="center">
-  <a href="https://israelc-bravo.netlify.app/" target="_blank">
+  <a target="_blank" href="https://israelc-bravo.netlify.app/">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=84B0CB&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/israelcastillov/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/israelcastillov/">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=84B0CB&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/israelc_bravo" target="_blank">
+  <a target="_blank" href="https://twitter.com/israelc_bravo">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=84B0CB&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://wellfound.com/u/israelcastillov" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=84B0CB&style=plastic&logo=angelist&logo-color=white"/>
+  <a target="_blank" href="https://wellfound.com/u/israelcastillov">
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=84B0CB&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
