@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/TeYkNCl.jpg" width="100%">
+<img src="https://i.imgur.com/xFOey82.jpg" width="100%">
 
 My name is Israel Castillo, and I'm a Full-Stack Software Engineer. As a SWE, I love creative solutions and strategies to help my clients reach their goals. When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
 
