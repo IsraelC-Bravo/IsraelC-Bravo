@@ -1,8 +1,8 @@
-<img src="https://i.imgur.com/MvSB5X2.jpg" width="100%">
+<img src="https://i.imgur.com/TeYkNCl.jpg" width="100%">
 
-My name is Israel Castillo, and as a Software Engineer, I'm constantly looking for creative solutions and strategies to help my clients reach their goals. When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
+My name is Israel Castillo, and I'm a Full-Stack Software Engineer. As a SWE, I love creative solutions and strategies to help my clients reach their goals. When I'm not coding, I enjoy playing board games, cooking, walking, playing video games with my kids, reading sci-fi-related stories, making music, or traveling. 
 
-Everybody has an idea; let me hear YOURS!
+Let us work together to find the answers you need for your unique project.
 
 See [my portfolio](https://israelc-bravo.netlify.app/) for more information about me!
 
