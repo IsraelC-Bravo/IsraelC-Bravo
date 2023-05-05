@@ -124,7 +124,7 @@ See [my portfolio](https://israelc-bravo.netlify.app/) for more information abou
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=84B0CB&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/israelcastillov" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=84B0CB&style=plastic&logo=wellfound&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=84B0CB&style=plastic&logo=angelist&logo-color=white"/>
   </a>
 </p>
 
